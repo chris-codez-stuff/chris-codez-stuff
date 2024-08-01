@@ -6,7 +6,7 @@
 - I enjoy doing projects 🏗️
 - Always welcome to contribute to my small projects 😄
 
-
+<a href="https://github.com/chris-codez-stuff"><img src="https://api.daily.dev/devcards/v2/NJEiFVMTJYlNoxL1C3TVp.png?type=wide&r=y6w" width="652" alt="Chris's Dev Card"/></a>
 
 
 <!---
